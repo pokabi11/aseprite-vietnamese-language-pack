@@ -1,0 +1,23 @@
+{
+  "name": "gói-ngôn-ngữ-Việt-Nam",
+  "displayName": "Gói ngôn ngữ - Việt Nam",
+  "description": "Gói ngôn ngữ En-VN hoặc ít nhất là như thế, phù hợp với Người Việt",
+  "version": "0.1",
+  "publisher": "pokabi11",
+  "author": {
+    "name": "pokabi11",
+    "url": "https://github.com/pokabi11"
+  },
+  "categories": [
+    "Languages"
+  ],
+  "contributes": {
+    "languages": [
+      {
+        "id": "vi",
+        "path": "./vi-vn.ini",
+        "displayName": "Việt Nam"
+      }
+    ]
+  }
+}
