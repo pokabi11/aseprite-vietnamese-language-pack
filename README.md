@@ -1,3 +1,18 @@
+![Alt text](image/vi.png)
+
+# Vietnamese Language pack for Aseprite.
+
+## Vietnamese Description:
+- Nội dung được thực hiện bởi pokabi11, thực hiện line by line nên sẽ không hoàn thiện tốt như dịch bằng Tool chính thống (how can they translate only 8%?)
+- Sử dụng cho mục đích phi thương mại
+
+## Cài đặt
+1. Tải bản `.zip` (github > Code dropdown > Download ZIP)
+2. Đi tới phần `Edit` > `Preferences` > `Extensions` > `Add Extension`
+3. Chọn file `.zip` vừa download về
+4. Chọn ngôn ngữ trong `Edit` > `Preferences` > `General` > `Language`
+5. Tận hưởng.
+
 # 🇺🇸 🇬🇧 English
 ## Install
 1. Download the `.zip` (github > Code dropdown > Download ZIP)
